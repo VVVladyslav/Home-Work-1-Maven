@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myname:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myname_jar</output-path>
+    <root id="archive" name="HM1maven.jar">
+      <element id="module-output" name="HM1maven" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
